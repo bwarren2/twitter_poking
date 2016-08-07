@@ -10,6 +10,8 @@ from tweepy import Stream
 
 import csv
 from collections import defaultdict, Counter
+import urllib3
+urllib3.disable_warnings()
 
 
 @click.command()
@@ -23,29 +25,32 @@ def track(term):
     access_token = getenv('ACCESS_TOKEN')
     access_token_secret = getenv('ACCESS_TOKEN_SECRET')
 
+    c = Counter()
     class StdOutListener(StreamListener):
         """ A listener handles tweets that are received from the stream.
         This is a basic listener that just prints received tweets to stdout.
         """
         def on_data(self, data):
             foo = json.loads(data)
-            if foo.get('geo', None):
-                print ('GEO!!!')
-                print ('GEO!!!')
-                print ('GEO!!!')
-                print(foo)
-            else:
-                print(foo['text'])
+            if 'text' in foo.keys():
+                if foo.get('geo', None):
+                    print ('GEO!!!')
+                    print ('GEO!!!')
+                    print ('GEO!!!')
+                    print(foo)
+                else:
+                    print(foo['text'])
 
-            # for word in foo['text'].split():
-            #     print(store[word])
+                # for word in foo['text'].split():
+                #     print(store[word])
 
-            senses = [
-                store[word]
-                for word in foo['text'].split()
-            ]
-            terms = [item for sublist in senses for item in sublist]
-            print(Counter(terms))
+                senses = [
+                    store[word]
+                    for word in foo['text'].split()
+                ]
+                terms = [item for sublist in senses for item in sublist]
+                c.update(terms)
+                print(c)
 
             return True
 
