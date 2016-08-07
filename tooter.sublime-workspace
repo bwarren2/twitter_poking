@@ -1,0 +1,1562 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"match",
+				"match_id"
+			],
+			[
+				"Match",
+				"MatchRequest	class"
+			],
+			[
+				"Math",
+				"MatchRequest"
+			],
+			[
+				"Base",
+				"BaseTask	class"
+			],
+			[
+				"datadrived",
+				"datadrivendota"
+			],
+			[
+				"uuid",
+				"uuid4"
+			],
+			[
+				"offset",
+				"offsetElement"
+			],
+			[
+				"pagine",
+				"paginate_by"
+			],
+			[
+				"recent",
+				"recent_schedule"
+			],
+			[
+				"Api",
+				"ApiContext	class"
+			],
+			[
+				"Test",
+				"TestCase	import"
+			],
+			[
+				"sele",
+				"selector_class"
+			],
+			[
+				"classi",
+				"classify"
+			],
+			[
+				"http",
+				"HttpResponse"
+			],
+			[
+				"pt",
+				"point_max"
+			],
+			[
+				"make",
+				"make_recipe"
+			],
+			[
+				"asser",
+				"assertEqual"
+			],
+			[
+				"template",
+				"template_name"
+			],
+			[
+				"views",
+				"viewsets"
+			],
+			[
+				"Plae",
+				"PlayerMatchSummary"
+			],
+			[
+				"view",
+				"viewsets	import"
+			],
+			[
+				"User",
+				"UserCheckMixin	class"
+			],
+			[
+				"toggle",
+				"toggleface"
+			],
+			[
+				"table",
+				"table-face"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"ab",
+				"ability_text	statement"
+			],
+			[
+				"lore",
+				"lore_dict	statement"
+			],
+			[
+				"test",
+				"test	base test case class"
+			],
+			[
+				"inter",
+				"interval_duration"
+			],
+			[
+				"make_",
+				"make_x_scale"
+			],
+			[
+				"position",
+				"position_y"
+			],
+			[
+				"position_",
+				"position_y"
+			],
+			[
+				"animation",
+				"animation-controls"
+			],
+			[
+				"f",
+				"fk	ForeignKey (fk)"
+			],
+			[
+				"gmp",
+				"gpm-xpm-chart"
+			],
+			[
+				"default",
+				"default_factory	class"
+			],
+			[
+				"View",
+				"viewsets"
+			],
+			[
+				"update",
+				"update_leagues	statement"
+			],
+			[
+				"UpdateLeag",
+				"UpdateLeagueLogos	class"
+			],
+			[
+				"Valev",
+				"ValveApiCall	class"
+			],
+			[
+				"Valve",
+				"ValveApiCall	class"
+			],
+			[
+				"redis",
+				"redis_app	statement"
+			],
+			[
+				"Va",
+				"ValveApiCall	class"
+			],
+			[
+				"dele",
+				"delete_unscheduled_games	function"
+			],
+			[
+				"mommy",
+				"mommy_recipes"
+			],
+			[
+				"good_",
+				"good_league_schedule	statement"
+			],
+			[
+				"for",
+				"ForeignKey"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"ma",
+				"management	import"
+			],
+			[
+				"get",
+				"get_bucket	function"
+			],
+			[
+				"loca",
+				"local_filename	statement"
+			],
+			[
+				"Radio",
+				"RadioSelect	class"
+			],
+			[
+				"leagued",
+				"leaguedossier"
+			],
+			[
+				"assert",
+				"assertEqual	function"
+			],
+			[
+				"building",
+				"building_initials"
+			],
+			[
+				"int",
+				"interval_duration"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"unreliab",
+				"unreliable_gold"
+			],
+			[
+				"ran",
+				"rangeRoundBands"
+			],
+			[
+				"lst",
+				"lstKeys"
+			],
+			[
+				"retrun",
+				"return_ary"
+			],
+			[
+				"timeline_",
+				"timeline_idx"
+			],
+			[
+				"enemy_",
+				"enemy_buildings"
+			],
+			[
+				"replay_",
+				"replay_log	statement"
+			],
+			[
+				"combat_",
+				"combat_names	statement"
+			],
+			[
+				"intiia",
+				"initial_count"
+			],
+			[
+				"dct",
+				"deaths_ct"
+			],
+			[
+				"de",
+				"defaultdict"
+			],
+			[
+				"v",
+				"view	View"
+			],
+			[
+				"Ec",
+				"Exception	class"
+			],
+			[
+				"pl",
+				"player_winrate_json	function"
+			],
+			[
+				"player",
+				"playermatchsummary"
+			],
+			[
+				"Skill",
+				"SkillBuild	class"
+			],
+			[
+				"assi",
+				"assignment"
+			],
+			[
+				"is_",
+				"is_competitive"
+			],
+			[
+				"momm",
+				"mommy_recipes	module"
+			],
+			[
+				"assign",
+				"Assignment	class"
+			],
+			[
+				"Hero",
+				"HeroDossier	class"
+			],
+			[
+				"hero",
+				"HeroFactory	class"
+			],
+			[
+				"testcase",
+				"testcase	testcase"
+			],
+			[
+				"item",
+				"item_0"
+			],
+			[
+				"account",
+				"account_id"
+			],
+			[
+				"matches_",
+				"matches_desired"
+			],
+			[
+				"parse",
+				"parse_preview	function"
+			],
+			[
+				"build",
+				"SkillBuild"
+			],
+			[
+				"creep",
+				"creep_kill_log	function"
+			],
+			[
+				"replay",
+				"replay_stream"
+			],
+			[
+				"urll",
+				"urllib"
+			],
+			[
+				"parser",
+				"parser_id_lst	statement"
+			],
+			[
+				"parser_",
+				"parser_id_lst"
+			],
+			[
+				"Player",
+				"PlayerMatchSummary	class"
+			],
+			[
+				"Pla",
+				"PlayerMatchSummary	class"
+			],
+			[
+				"game",
+				"game_events"
+			],
+			[
+				"data",
+				"datadrivendota	module"
+			],
+			[
+				"match_e",
+				"match_set_1"
+			],
+			[
+				"intell",
+				"intelligence"
+			],
+			[
+				"asse",
+				"assemble_pros	function"
+			],
+			[
+				"api",
+				"api_context	statement"
+			],
+			[
+				"Team",
+				"TeamDossier	class"
+			],
+			[
+				"League",
+				"LeagueDossier	class"
+			],
+			[
+				"Leag",
+				"LeagueDossier	class"
+			],
+			[
+				"le",
+				"left_index	statement"
+			],
+			[
+				"None",
+				"NotImplementedError	class"
+			],
+			[
+				"teamd",
+				"teamdossier"
+			],
+			[
+				"De",
+				"DetailView	class"
+			],
+			[
+				"Lea",
+				"LeagueDossier	class"
+			],
+			[
+				"DateD",
+				"DateTimeField	class"
+			],
+			[
+				"cha",
+				"CharField	class"
+			],
+			[
+				"intelligence",
+				"intelligence_gain"
+			],
+			[
+				"render",
+				"render_to_response	function"
+			],
+			[
+				"req",
+				"request_limit"
+			],
+			[
+				"clea",
+				"cleaned_data"
+			],
+			[
+				"form",
+				"format	function"
+			],
+			[
+				"userpro",
+				"userprofile"
+			],
+			[
+				"In",
+				"IntegerField	class"
+			],
+			[
+				"wh",
+				"which_side"
+			],
+			[
+				"interest-",
+				"interest-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"Model",
+				"ModelForm	ModelForm"
+			],
+			[
+				"emai",
+				"EmailField	class"
+			],
+			[
+				"No",
+				"NoDataFound	import"
+			],
+			[
+				"skill",
+				"skill_sample_matches	statement"
+			],
+			[
+				"game_",
+				"game_events"
+			],
+			[
+				"endg",
+				"endgame_players	statement"
+			],
+			[
+				"Tassel",
+				"TasselPlot	class"
+			],
+			[
+				"jsoN",
+				"json_data	statement"
+			],
+			[
+				"class",
+				"class_selector"
+			],
+			[
+				"group_",
+				"group_list"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 276,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.py",
+			"settings":
+			{
+				"buffer_size": 597,
+				"line_ending": "Unix",
+				"name": "import tweepy"
+			}
+		},
+		{
+			"file": "stream.py",
+			"settings":
+			{
+				"buffer_size": 1244,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "https://github.com/joelgrus/twitter-globe/blob/master/twitter.js\nhttp://joelgrus.com/2016/02/27/trump-tweets-on-a-globe-aka-fun-with-d3-socketio-and-the-twitter-api/\n\nhttp://www.saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm",
+			"settings":
+			{
+				"buffer_size": 227,
+				"line_ending": "Unix",
+				"name": "https://github.com/joelgrus/twitter-globe/blob/mas"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "prett",
+		"selected_items":
+		[
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"dj	",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"djan",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"djang",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"mth",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"set s mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"restr",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"marl",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"unf",
+				"Code Folding: Unfold All"
+			],
+			[
+				"fold",
+				"Fold Python : fold depth 0"
+			],
+			[
+				"un",
+				"Code Folding: Unfold All"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"auto",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"pep",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"bindings",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jsh",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"matlab",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"Snippet: test",
+				"Snippet: base test case class"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"syntax",
+				"Set Syntax: Python"
+			],
+			[
+				"ed",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"Snippet: class",
+				"Snippet: New Class"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"rett",
+				"Pretty JSON: JSON 2 XML"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"console",
+				"Anaconda: Show error list"
+			],
+			[
+				"settings",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - User"
+			],
+			[
+				"create",
+				"Gist: Create Private Gist"
+			],
+			[
+				"private",
+				"Gist: Create Private Gist"
+			],
+			[
+				"dja",
+				"Set Syntax: Python Django"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"secret",
+				"Gist: Create Private Gist"
+			],
+			[
+				"git",
+				"Git: Gitk"
+			],
+			[
+				"secre",
+				"Gist: Create Private Gist"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"dj",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"css",
+				"Tidy CSS (Low Compression)"
+			],
+			[
+				"django",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"goto",
+				"Goto Documentation"
+			],
+			[
+				"snipp",
+				"Snippet: filter"
+			],
+			[
+				"subl",
+				"SublimeCodeIntel: Enable Plugin"
+			],
+			[
+				"codeintel",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"codeint",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 471.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"x",
+			"x = range(0,10)",
+			"range(0,10)",
+			"print range(0,10)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ben/Projects/toot_poking"
+	],
+	"file_history":
+	[
+		"/home/ben/Projects/bonsai_project/bonsai_api/bonsai/tasks/admin.py",
+		"/home/ben/.virtualenvs/bonsai_api/bin/postactivate",
+		"/home/ben/Projects/bonsai_project/bonsai_api/bonsai/bonsai/admin.py",
+		"/home/ben/Projects/bonsai_project/bonsai_api/README.md",
+		"/home/ben/.virtualenvs/bonsai/.project",
+		"/home/ben/.virtualenvs/bonsai/.projet",
+		"/home/ben/Projects/bonsai/.gitignore",
+		"/home/ben/Projects/django-basic-blog/circle.yml",
+		"/home/ben/Projects/django-basic-blog/README.md",
+		"/home/ben/Projects/django-basic-blog/setup.py",
+		"/home/ben/Projects/django-basic-blog/sample_project/wsgi.py",
+		"/home/ben/Projects/django-basic-blog/sample_project/settings.py",
+		"/home/ben/Projects/django-basic-blog/sample_project/manage.py",
+		"/home/ben/Projects/django-basic-blog/test_project/urls.py",
+		"/home/ben/Projects/django-basic-blog/blog/models.py",
+		"/home/ben/Projects/django-basic-blog/.gitignore",
+		"/home/ben/Projects/watch-test/foo.js",
+		"/home/ben/Projects/django-basic-blog/test_project/settings.py",
+		"/home/ben/Projects/django-basic-blog/test_project/static/foo.css",
+		"/home/ben/Projects/django-basic-blog/test_project/requirements/test.py",
+		"/home/ben/Projects/django-basic-blog/blog/templatetags/blog_extras.py",
+		"/home/ben/Projects/django-basic-blog/blog/templates/blog/_entry.html",
+		"/home/ben/Projects/django-basic-blog/test_project/wsgi.py",
+		"/home/ben/Projects/django-basic-blog/test_project/manage.py",
+		"/home/ben/foobar/manage.py",
+		"/home/ben/Projects/django-basic-blog/test_project/test_requirements.txt",
+		"/home/ben/Projects/django-basic-blog/blog/templatetags/__init__.py",
+		"/home/ben/Projects/django-basic-blog/blog/templatetags/markdownify.py",
+		"/home/ben/Projects/django-basic-blog/blog/templates/blog/test_parent.html",
+		"/home/ben/Projects/django-basic-blog/blog/templatetags.py",
+		"/home/ben/Projects/django-basic-blog/blog/templates/blog/blog_base.html",
+		"/home/ben/Projects/django-basic-blog/test_settings.py",
+		"/home/ben/Projects/django-basic-blog/test_wsgi.py",
+		"/home/ben/Projects/django-basic-blog/blog/urls.py",
+		"/home/ben/Projects/django-basic-blog/test_urls.py",
+		"/home/ben/Projects/django-basic-blog/blog/tests.py",
+		"/home/ben/Projects/django-basic-blog/test_project/__init__.py",
+		"/home/ben/Projects/django-basic-blog/blog/test_urls.py",
+		"/home/ben/Projects/django-basic-blog/blog/templates/blog/entry_list.html",
+		"/home/ben/Projects/django-basic-blog/blog/templates/blog/entry_detail.html",
+		"/home/ben/Projects/foobar/foobar/settings.py",
+		"/home/ben/Projects/foobar/foobar/wsgi.py",
+		"/home/ben/Projects/django-basic-blog/.travis.yml",
+		"/home/ben/Projects/django-basic-blog/blog/views.py",
+		"/home/ben/Projects/django-basic-blog/tox.ini",
+		"/home/ben/Projects/django-basic-blog/tests/test_requests.py",
+		"/home/ben/Projects/django-basic-blog/tests/test_entry_model.py",
+		"/home/ben/Projects/django-basic-blog/requirements/test.txt",
+		"/home/ben/Projects/django-basic-blog/test_machinery/settings.py",
+		"/home/ben/Projects/django-basic-blog/notes/pushing",
+		"/home/ben/Projects/django-basic-blog/blog/feeds.py",
+		"/home/ben/Projects/java-getting-started/1660289643.dem.bz2",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/management/tasks.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/datadrivendota/celery_app.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/players/management/tasks.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/serializers.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/views.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/tests.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/datadrivendota/settings/base.py",
+		"/home/ben/.virtualenvs/ddd-upgrade/bin/postactivate",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/datadrivendota/urls.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/players/tests/tests.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/heroes/tests/tests.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/urls.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/templates/accounts/login.html",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/management/__init__.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/admin.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/templates/accounts/logout.html",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/datadrivendota/rest_urls.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/grunt/concat.js",
+		"/home/ben/Projects/datadrivendota/datadrivendota/grunt/concat_css.js",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/static/bower_components/font-awesome/css/font-awesome.min.css",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/templates/accounts/done.html",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/static/css/project/cards.less",
+		"/home/ben/.virtualenvs/ddd-upgrade/lib/python2.7/site-packages/social/apps/django_app/utils.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/mail.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/pipeline.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/static/css/variables.less",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/utils/templatetags/backend_utils.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/templates/accounts/home.html",
+		"/home/ben/Projects/python-social-auth/examples/django_example/example/app/views.py",
+		"/home/ben/Projects/python-social-auth/examples/django_example/example/templates/home.html",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/templates/base.html",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/templates/done.html",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/templates/logout.html",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/decorators.py",
+		"/home/ben/.config/sublime-text-3/Packages/User/Flake8Lint.sublime-settings",
+		"/home/ben/Projects/python-social-auth/social/apps/django_app/utils.py",
+		"/home/ben/.virtualenvs/ddd-upgrade/lib/python2.7/site-packages/django/contrib/auth/views.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/templates/registration/login.html",
+		"/home/ben/Projects/python-social-auth/examples/django_example/example/urls.py",
+		"/home/ben/Projects/python-social-auth/social/backends/utils.py",
+		"/home/ben/Projects/python-social-auth/examples/django_example/example/settings.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/datadrivendota/templatetags/backend_utils.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/datadrivendota/templatetags/backend_utils.pyc",
+		"/home/ben/Projects/python-social-auth/examples/django_example/example/app/templatetags/backend_utils.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/datadrivendota/templatetags/__init__.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/datadrivendota/templatetags/human_seconds.py",
+		"/home/ben/Projects/python-social-auth/examples/django_example/example/app/templatetags/__init__.py",
+		"/home/ben/Projects/python-social-auth/examples/django_example/example/app/templatetags/__init__.pyc",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/matches/views.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/datadrivendota/views.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/forms.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/accounts/models.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/datadrivendota/forms.py",
+		"/home/ben/.virtualenvs/ddd-upgrade/lib/python2.7/site-packages/social/pipeline/user.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/heroes/templates/heroes/hero_detail.html",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/static/js/charting.js",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/players/templates/players/player_detail.html",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/matches/templates/matches/match_detail.html",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/leagues/views.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/leagues/urls.py",
+		"/etc/mongodb.conf",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/heroes/serializers.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/heroes/views.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/players/serializers.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/players/views.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/players/models.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/teams/managers.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/players/managers.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/players/urls.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/bower.json",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/leagues/templates/leagues/league_detail.html",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/teams/templates/teams/team_detail.html",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/matches/serializers.py",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/static/js/nvd3-extensions.js",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/static/js/nvd3-extentions.js",
+		"/home/ben/Projects/datadrivendota/datadrivendota/datadrivendota/static/css/nvd3_custom_compilation.less"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"production.py",
+			"r.py",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"basket",
+			"loca",
+			"place",
+			",",
+			",\n",
+			"place",
+			"location",
+			"geo",
+			"loca",
+			"coord",
+			",",
+			"super",
+			"user",
+			"databa",
+			"completed",
+			"ini",
+			"tag",
+			"test_project",
+			"project",
+			"test_project",
+			"test",
+			"test_project",
+			"test_",
+			"static",
+			"STATIC_URL",
+			"STATIC_URL\n",
+			"static",
+			"SITE_ROOT",
+			"static",
+			"root",
+			"static",
+			"[Thoth] ~/Projects/django-basic-blog tagged-posts >",
+			"test",
+			"DATABASES",
+			"STATICFILES_STORAGE",
+			"blog.",
+			"foobar",
+			"SITE_ROOT",
+			"SITE_ROOT\n",
+			"filen",
+			"file",
+			"basiccon",
+			"LISTEN_EXCHANGE",
+			"java_",
+			"direct",
+			"EXCHANGE",
+			"exchange",
+			"LISTEN_QUEUE",
+			"EXCHANGE",
+			"SEND_QUEUE",
+			"LISTEN_QUEUE",
+			"sendResp",
+			"sent",
+			"url",
+			"send_",
+			"System.out.println",
+			"setVirtualHost('/')",
+			"getVhost",
+			"CLOUDAMQP_URL",
+			"connection",
+			"CLOUDAMQP_URL",
+			"EXCHANGE",
+			"queueBind",
+			"channel",
+			"ConnectionFactory",
+			"SEND_QUEUE",
+			"python",
+			"ConnectionF",
+			"connectionf",
+			"connect",
+			"file",
+			"java_parse_message",
+			"matchre",
+			"self.api_context",
+			"get_tracks",
+			"pulled_match",
+			"match_re",
+			"make",
+			"CreateMatchParse",
+			"REPLAY_SERVICE_URL",
+			"datetime",
+			"chain",
+			"secret",
+			"email",
+			"redirect",
+			"email",
+			"\n  ",
+			"backend",
+			"print",
+			"authentica",
+			"ema",
+			"modalDialog",
+			"username-modal",
+			"href",
+			"done",
+			"render_to",
+			"available",
+			"backend",
+			"')",
+			"'example.app.",
+			"social",
+			"authent",
+			"url",
+			"login",
+			"datadr",
+			"backend_utils",
+			"backend_",
+			"buttons",
+			"social",
+			"legac",
+			"get_",
+			"player_",
+			"PermissionCode",
+			"get_code",
+			"match_scatter",
+			"consol",
+			"console",
+			"data_queryset",
+			"radiant_infodict",
+			"MatchFilteredQuerySet",
+			"'",
+			"classiscreteBarChart",
+			"trans",
+			"label",
+			"kda2",
+			"label",
+			"match",
+			".attr(\"clip-path\", function(d,i) { return \"url(#nv-clip"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",\n",
+			"sample_project",
+			"",
+			"blog",
+			"setVirtualHost(\"/\")",
+			"getVirtualHost",
+			"",
+			"scatter",
+			"\"",
+			"datadrivendota/static/bower_components",
+			"",
+			"\"",
+			"destination",
+			"bower_components/bootstrap/",
+			" Supernova ",
+			"Supernova",
+			".nv-bar",
+			"svg",
+			"@font",
+			"flag_vars",
+			"doctor_vars",
+			"outsource_json",
+			"'",
+			"\"",
+			"#  ",
+			"",
+			"cs",
+			"bower_components",
+			"components/bootstrap/",
+			"second_splitter",
+			"hour_splitter",
+			"duration_string",
+			"minute_splitter",
+			"next_duration_splitter",
+			"last_duration_splitter",
+			"second_unit",
+			"minute_unit",
+			"hour_unit",
+			"day_unit",
+			"minute_seconds",
+			"hour_seconds",
+			"day_seconds",
+			"logo_url",
+			"image",
+			"",
+			"url",
+			"",
+			"# ",
+			"# END",
+			"> > > ",
+			"false",
+			"true",
+			"True",
+			"False",
+			"import ",
+			"  ",
+			"tasks import  ",
+			"",
+			"shape_bounds",
+			"description':",
+			"",
+			",",
+			": ",
+			"",
+			",",
+			": ",
+			",",
+			": ",
+			"",
+			"MirrorRecentTeams",
+			"MirrorRecentLeagues'",
+			"",
+			",",
+			"",
+			"@",
+			"0",
+			"@",
+			"0",
+			"@",
+			"",
+			"proj",
+			"self.data",
+			"data",
+			"merged_dict",
+			"append",
+			"data_dict",
+			"hero.",
+			"group-c",
+			"group-b",
+			"group-a",
+			"page_obj",
+			"paginator",
+			"timedelta",
+			"",
+			", \\n",
+			"side",
+			"league",
+			"interval_duration",
+			"item5",
+			"item4",
+			"item3",
+			"item2",
+			"item1",
+			"item0",
+			"\"",
+			"get_games",
+			"data_dict",
+			"datadict",
+			"data",
+			"\"",
+			"@",
+			"",
+			"hero_id",
+			"",
+			"_object_outdated",
+			"UpdateTeam",
+			"timezone.now",
+			"team",
+			",",
+			"UpdateMatch",
+			",",
+			"",
+			"players.management.tasks.MirrorClientMatches",
+			"matches.management.tasks.UpdateMatch",
+			"matches.management.tasks.MirrorMatches",
+			"leagues.management.tasks.UpdateLeagueGames",
+			"leagues.management.tasks.CreateLeagues",
+			"leagues.management.tasks.MirrorLeagues"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import tweepy",
+							"is_xml": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "stream.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								888,
+								888
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"is_xml": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"auto_name": "https://github.com/joelgrus/twitter-globe/blob/mas",
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 120.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tooter.sublime-project",
+	"replace":
+	{
+		"height": 112.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 443.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
